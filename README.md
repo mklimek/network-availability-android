@@ -14,5 +14,5 @@ android{
 }
 ```
 
-See [ExampleActivity](https://github.com/mklimek/NetworkAvailability/blob/master/NetworkAvailability.java).
+See [ExampleActivity](https://github.com/mklimek/NetworkAvailability/blob/master/ExampleActivity.java).
 
