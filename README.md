@@ -7,7 +7,7 @@ http://stackoverflow.com/questions/29677852/connectivitymanager-extra-no-connect
 
 **NetworkAvailability** lets you register `BroadcastReceiver` which works for pre-lollipop and lollipop devices as well.    
 
-You have to compile your project with AndroidSDK 21 at least:
+You have to compile your project at least with AndroidSDK 21:
 ```gradle
 android{
    compileSdkVersion 21
