@@ -1,9 +1,9 @@
-*Problem:*
+*The problem:*
 
 http://stackoverflow.com/questions/29677852/connectivitymanager-extra-no-connectivity-is-always-false-on-android-lollipop
 
 
-*Solution:*
+*The solution:*
 
 **NetworkAvailability** lets you register `BroadcastReceiver` which works for pre-lollipop and lollipop devices as well.    
 
